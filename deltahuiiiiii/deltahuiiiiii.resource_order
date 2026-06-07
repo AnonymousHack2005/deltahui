@@ -1,0 +1,10 @@
+{
+  "FolderOrderSettings":[
+    {"name":"objects","order":1,"path":"folders/objects.yy",},
+    {"name":"scripts","order":3,"path":"folders/scripts.yy",},
+    {"name":"sprites","order":2,"path":"folders/sprites.yy",},
+  ],
+  "ResourceOrderSettings":[
+    {"name":"obj_mashinanahui","order":1,"path":"objects/obj_mashinanahui/obj_mashinanahui.yy",},
+  ],
+}
