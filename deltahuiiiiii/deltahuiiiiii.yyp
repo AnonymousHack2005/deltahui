@@ -27,6 +27,7 @@
     {"id":{"name":"obj_mashinanahui","path":"objects/obj_mashinanahui/obj_mashinanahui.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"id":{"name":"loh","path":"sprites/loh/loh.yy",},},
+    {"id":{"name":"zielonyj_loh","path":"sprites/zielonyj_loh/zielonyj_loh.yy",},},
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",

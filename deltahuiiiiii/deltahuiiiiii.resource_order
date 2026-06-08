@@ -6,5 +6,6 @@
   ],
   "ResourceOrderSettings":[
     {"name":"obj_mashinanahui","order":1,"path":"objects/obj_mashinanahui/obj_mashinanahui.yy",},
+    {"name":"zielonyj_loh","order":2,"path":"sprites/zielonyj_loh/zielonyj_loh.yy",},
   ],
 }
