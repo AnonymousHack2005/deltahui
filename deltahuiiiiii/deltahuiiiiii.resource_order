@@ -2,10 +2,14 @@
   "FolderOrderSettings":[
     {"name":"objects","order":1,"path":"folders/objects.yy",},
     {"name":"scripts","order":3,"path":"folders/scripts.yy",},
+    {"name":"sounds","order":4,"path":"folders/sounds.yy",},
     {"name":"sprites","order":2,"path":"folders/sprites.yy",},
   ],
   "ResourceOrderSettings":[
     {"name":"obj_mashinanahui","order":1,"path":"objects/obj_mashinanahui/obj_mashinanahui.yy",},
+    {"name":"Sound2","order":1,"path":"sounds/Sound2/Sound2.yy",},
+    {"name":"Sound3","order":2,"path":"sounds/Sound3/Sound3.yy",},
+    {"name":"Sprite3","order":3,"path":"sprites/Sprite3/Sprite3.yy",},
     {"name":"zielonyj_loh","order":2,"path":"sprites/zielonyj_loh/zielonyj_loh.yy",},
   ],
 }
