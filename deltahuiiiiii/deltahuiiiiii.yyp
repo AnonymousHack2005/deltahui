@@ -26,6 +26,7 @@
   "resources":[
     {"id":{"name":"obj_loh","path":"objects/obj_loh/obj_loh.yy",},},
     {"id":{"name":"obj_mashinanahui","path":"objects/obj_mashinanahui/obj_mashinanahui.yy",},},
+    {"id":{"name":"obj_siniy_loh","path":"objects/obj_siniy_loh/obj_siniy_loh.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"id":{"name":"Sound1","path":"sounds/Sound1/Sound1.yy",},},
     {"id":{"name":"Sound2","path":"sounds/Sound2/Sound2.yy",},},
