@@ -26,10 +26,12 @@
   "resources":[
     {"id":{"name":"button_insult","path":"objects/button_insult/button_insult.yy",},},
     {"id":{"name":"button_placeholder","path":"objects/button_placeholder/button_placeholder.yy",},},
+    {"id":{"name":"obj_gamecontroler","path":"objects/obj_gamecontroler/obj_gamecontroler.yy",},},
     {"id":{"name":"obj_loh","path":"objects/obj_loh/obj_loh.yy",},},
     {"id":{"name":"obj_mashinanahui","path":"objects/obj_mashinanahui/obj_mashinanahui.yy",},},
     {"id":{"name":"obj_siniy_loh","path":"objects/obj_siniy_loh/obj_siniy_loh.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"id":{"name":"Script1","path":"scripts/Script1/Script1.yy",},},
     {"id":{"name":"Sound1","path":"sounds/Sound1/Sound1.yy",},},
     {"id":{"name":"Sound2","path":"sounds/Sound2/Sound2.yy",},},
     {"id":{"name":"Sound3","path":"sounds/Sound3/Sound3.yy",},},
