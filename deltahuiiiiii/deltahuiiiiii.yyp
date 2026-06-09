@@ -8,7 +8,7 @@
     "children":[],
     "name":"Default",
   },
-  "defaultScriptType":0,
+  "defaultScriptType":1,
   "Folders":[
     {"$GMFolder":"","%Name":"objects","folderPath":"folders/objects.yy","name":"objects","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"scripts","folderPath":"folders/scripts.yy","name":"scripts","resourceType":"GMFolder","resourceVersion":"2.0",},
@@ -24,6 +24,8 @@
   },
   "name":"deltahuiiiiii",
   "resources":[
+    {"id":{"name":"button_insult","path":"objects/button_insult/button_insult.yy",},},
+    {"id":{"name":"button_placeholder","path":"objects/button_placeholder/button_placeholder.yy",},},
     {"id":{"name":"obj_loh","path":"objects/obj_loh/obj_loh.yy",},},
     {"id":{"name":"obj_mashinanahui","path":"objects/obj_mashinanahui/obj_mashinanahui.yy",},},
     {"id":{"name":"obj_siniy_loh","path":"objects/obj_siniy_loh/obj_siniy_loh.yy",},},

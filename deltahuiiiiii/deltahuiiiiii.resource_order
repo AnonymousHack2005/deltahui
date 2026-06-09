@@ -6,6 +6,8 @@
     {"name":"sprites","order":2,"path":"folders/sprites.yy",},
   ],
   "ResourceOrderSettings":[
+    {"name":"button_insult","order":3,"path":"objects/button_insult/button_insult.yy",},
+    {"name":"button_placeholder","order":4,"path":"objects/button_placeholder/button_placeholder.yy",},
     {"name":"obj_mashinanahui","order":1,"path":"objects/obj_mashinanahui/obj_mashinanahui.yy",},
     {"name":"obj_siniy_loh","order":2,"path":"objects/obj_siniy_loh/obj_siniy_loh.yy",},
     {"name":"Sound2","order":1,"path":"sounds/Sound2/Sound2.yy",},
