@@ -1,1 +1,1 @@
-global.hp = 30;
+global.hp = 40

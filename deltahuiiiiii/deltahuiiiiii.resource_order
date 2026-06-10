@@ -14,6 +14,7 @@
     {"name":"Sound2","order":1,"path":"sounds/Sound2/Sound2.yy",},
     {"name":"Sound3","order":2,"path":"sounds/Sound3/Sound3.yy",},
     {"name":"Sprite3","order":3,"path":"sprites/Sprite3/Sprite3.yy",},
+    {"name":"Sprite4","order":4,"path":"sprites/Sprite4/Sprite4.yy",},
     {"name":"zielonyj_loh","order":2,"path":"sprites/zielonyj_loh/zielonyj_loh.yy",},
   ],
 }

@@ -37,6 +37,7 @@
     {"id":{"name":"Sound3","path":"sounds/Sound3/Sound3.yy",},},
     {"id":{"name":"loh","path":"sprites/loh/loh.yy",},},
     {"id":{"name":"Sprite3","path":"sprites/Sprite3/Sprite3.yy",},},
+    {"id":{"name":"Sprite4","path":"sprites/Sprite4/Sprite4.yy",},},
     {"id":{"name":"zielonyj_loh","path":"sprites/zielonyj_loh/zielonyj_loh.yy",},},
   ],
   "resourceType":"GMProject",
