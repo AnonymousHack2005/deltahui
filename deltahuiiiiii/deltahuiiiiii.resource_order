@@ -8,13 +8,17 @@
   "ResourceOrderSettings":[
     {"name":"button_insult","order":3,"path":"objects/button_insult/button_insult.yy",},
     {"name":"button_placeholder","order":4,"path":"objects/button_placeholder/button_placeholder.yy",},
+    {"name":"obj_attack","order":7,"path":"objects/obj_attack/obj_attack.yy",},
+    {"name":"obj_attacktelo","order":6,"path":"objects/obj_attacktelo/obj_attacktelo.yy",},
     {"name":"obj_gamecontroler","order":5,"path":"objects/obj_gamecontroler/obj_gamecontroler.yy",},
     {"name":"obj_mashinanahui","order":1,"path":"objects/obj_mashinanahui/obj_mashinanahui.yy",},
     {"name":"obj_siniy_loh","order":2,"path":"objects/obj_siniy_loh/obj_siniy_loh.yy",},
     {"name":"Sound2","order":1,"path":"sounds/Sound2/Sound2.yy",},
     {"name":"Sound3","order":2,"path":"sounds/Sound3/Sound3.yy",},
+    {"name":"atack","order":6,"path":"sprites/atack/atack.yy",},
     {"name":"Sprite3","order":3,"path":"sprites/Sprite3/Sprite3.yy",},
     {"name":"Sprite4","order":4,"path":"sprites/Sprite4/Sprite4.yy",},
+    {"name":"Sprite5","order":5,"path":"sprites/Sprite5/Sprite5.yy",},
     {"name":"zielonyj_loh","order":2,"path":"sprites/zielonyj_loh/zielonyj_loh.yy",},
   ],
 }
